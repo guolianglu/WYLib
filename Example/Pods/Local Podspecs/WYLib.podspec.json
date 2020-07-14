@@ -1,0 +1,22 @@
+{
+  "name": "WYLib",
+  "version": "0.1.0",
+  "summary": "A short description of WYLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guolianglu/WYLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guolianglu": "<1158429526@qq.com>"
+  },
+  "source": {
+    "git": "https://github.com/guolianglu/WYLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WYLib/Classes/**/*"
+}

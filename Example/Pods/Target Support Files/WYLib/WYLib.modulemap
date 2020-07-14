@@ -1,0 +1,6 @@
+framework module WYLib {
+  umbrella header "WYLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
